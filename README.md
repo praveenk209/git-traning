@@ -1,2 +1,2 @@
 # Git Training
-Training sessions of Git
+Training sessions for Git basics
