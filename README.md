@@ -1,4 +1,4 @@
 # Git Training
 Training sessions for Git basics
 
-some text
+some text here
